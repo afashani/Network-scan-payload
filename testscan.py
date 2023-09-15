@@ -1,6 +1,6 @@
 from scapy.all import *
 
-target_ip = "192.168.8.153"
+target_ip = ""
 
 port_range = (1, 1024)
 
